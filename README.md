@@ -4,7 +4,7 @@
 ![npm 6.14.11](https://img.shields.io/static/v1?style=flat&logo=npm&label=npm&message=6.14.11&color=informational)
 ![node 14.16.0](https://img.shields.io/static/v1?style=flat&label=node&message=14.16.0&color=orange)
 
-This a boiler plate for express backend having asynchronous error handlers, database connection etc with all best practices.
+This a boiler plate for express backend having asynchronous error handling, logging errors and exceptions, database connection etc with all best practices.
 
 ## Start
 

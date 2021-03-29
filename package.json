@@ -1,0 +1,32 @@
+{
+  "name": "boiler-plate",
+  "version": "0.0.1",
+  "description": "Node/Express boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99-Ideas/node-boiler-plate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest",
+    "express"
+  ],
+  "author": "Soumyadeep Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99-Ideas/node-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/99-Ideas/node-boiler-plate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

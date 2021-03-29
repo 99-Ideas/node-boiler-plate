@@ -2,7 +2,7 @@
 
 ![package v0.0.1](https://img.shields.io/static/v1?label=package&message=v0.0.1&color=#5DADE2)
 ![npm 6.14.11](https://img.shields.io/static/v1?style=flat&logo=npm&label=npm&message=6.14.11&color=informational)
-![npm 6.14.11](https://img.shields.io/static/v1?style=flat&logo=node-dot-js&label=node&message=14.16.0&color=orange)
+![node 14.16.0](https://img.shields.io/static/v1?style=flat&label=node&message=14.16.0&color=orange)
 
 This a boiler plate for express backend having asynchronous error handlers, database connection etc with all best practices.
 
